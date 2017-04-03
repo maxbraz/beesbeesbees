@@ -5,6 +5,7 @@ var Grub = function() {
 };
 
 Grub.prototype.eat = function() {
+  
 };
 
 /*an age property that is set to 0
